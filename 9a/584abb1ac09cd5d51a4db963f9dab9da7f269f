@@ -1,0 +1,31 @@
+.gitignore
+  s_3b7e2a0904f294::t_2487610639a0cf 1-10
+README.md
+  s_3b7e2a0904f294::t_2487610639a0cf 1-114
+src/test/java/lab/MainTest.java
+  s_3b7e2a0904f294::t_e32ff0c4577a2b 24,50-51,65-68,80-81,87-88
+  s_3b7e2a0904f294::t_2487610639a0cf 1-23,25-49,52-64,69-79,82-86,89-108
+src/main/java/lab/Main.java
+  s_3b7e2a0904f294::t_2487610639a0cf 1-56,60-118
+  s_3b7e2a0904f294::t_e32ff0c4577a2b 57-59
+LICENSE
+  s_3b7e2a0904f294::t_2487610639a0cf 1-21
+pom.xml
+  s_3b7e2a0904f294::t_2487610639a0cf 1-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9a584abb1ac09cd5d51a4db963f9dab9da7f269f",
+  "prompts": {},
+  "sessions": {
+    "s_3b7e2a0904f294": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a151f5-a16f-75f3-bda0-f40f5d550a08",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yanmingyang <yanmy4@chinatelecom.cn>"
+    }
+  }
+}
